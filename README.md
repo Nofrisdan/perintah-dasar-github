@@ -80,7 +80,7 @@ git remote add origin <link repository github>
 ```
 ### Samakan branch local dengan branch di repository github
 ```
-git branc -M main
+git branch -M main
 
 ```
 
