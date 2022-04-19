@@ -90,5 +90,11 @@ git push -u origin main
 
 ```
 
+### fatal: refusing to merge unrelated histories (FIX)
+```
+git pull <remote> <branch> --allow-unrelated-histories
+
+```
+
 
 
